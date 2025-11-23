@@ -1,0 +1,2 @@
+# Wavemint Starter
+Basic scaffold.
