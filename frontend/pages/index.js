@@ -1,0 +1,1 @@
+export default function Home(){return(<div style={{color:'#47F6B8'}}>Wavemint v3</div>);}
