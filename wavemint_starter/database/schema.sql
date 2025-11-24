@@ -1,1 +1,1 @@
-CREATE TABLE test(id serial primary key);
+-- v2 schema placeholder

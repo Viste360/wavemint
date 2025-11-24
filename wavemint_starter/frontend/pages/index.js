@@ -1,1 +1,1 @@
-export default function Home() { return (<div>Wavemint Landing</div>);}
+export default function Home(){return(<div>Wavemint v2 Landing</div>);}

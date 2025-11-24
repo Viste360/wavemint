@@ -1,1 +1,1 @@
-export default function Upload(){return(<div>Upload Page</div>);}
+export default function Upload(){return(<div>Upload v2</div>);}

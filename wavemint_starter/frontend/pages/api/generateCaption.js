@@ -1,1 +1,1 @@
-export default function handler(req,res){res.send("Caption placeholder");}
+export default async function handler(req,res){res.send('AI caption');}

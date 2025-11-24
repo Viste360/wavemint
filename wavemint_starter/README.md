@@ -1,2 +1,2 @@
-# Wavemint Starter
-Basic scaffold.
+# Wavemint v2
+Improved scaffold.

@@ -1,1 +1,1 @@
-export default function handler(req,res){res.send("Artwork placeholder");}
+export default async function handler(req,res){res.send('AI artwork');}
